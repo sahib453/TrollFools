@@ -1,0 +1,146 @@
+/* No comment provided by engineer. */
+"%@ exited with code %d" = "%@ exited with code %d";
+
+/* No comment provided by engineer. */
+"%@ terminated with signal %d" = "%@ terminated with signal %d";
+
+/* No comment provided by engineer. */
+"A pure TrollStore software channel!" = "A pure TrollStore software channel!";
+
+/* No comment provided by engineer. */
+"Advanced Settings" = "Advanced Settings";
+
+/* No comment provided by engineer. */
+"AE86 TrollStore Channel" = "AE86 TrollStore Channel";
+
+/* No comment provided by engineer. */
+"And %d more unsupported user applications." = "And %d more unsupported user applications.";
+
+/* No comment provided by engineer. */
+"Completed" = "Completed";
+
+/* No comment provided by engineer. */
+"Copyright" = "Copyright";
+
+/* No comment provided by engineer. */
+"Done" = "Done";
+
+/* No comment provided by engineer. */
+"Eject" = "Eject";
+
+/* No comment provided by engineer. */
+"Eject All" = "Eject All";
+
+/* No comment provided by engineer. */
+"Error" = "Error";
+
+/* No comment provided by engineer. */
+"Failed" = "Failed";
+
+/* No comment provided by engineer. */
+"Failed to find entry CFBundleExecutable in: %@" = "Failed to find entry CFBundleExecutable in: %@";
+
+/* No comment provided by engineer. */
+"Failed to locate main executable: %@" = "Failed to locate main executable: %@";
+
+/* No comment provided by engineer. */
+"Failed to parse: %@" = "Failed to parse: %@";
+
+/* No comment provided by engineer. */
+"If you do not know what these options mean, please do not change them." = "If you do not know what these options mean, please do not change them.";
+
+/* No comment provided by engineer. */
+"Inject" = "Inject";
+
+/* No comment provided by engineer. */
+"Injectable System Applications" = "Injectable System Applications";
+
+/* No comment provided by engineer. */
+"Injected Plug-Ins" = "Injected Plug-Ins";
+
+/* No comment provided by engineer. */
+"Injecting" = "Injecting";
+
+/* No comment provided by engineer. */
+"Injection" = "Injection";
+
+/* No comment provided by engineer. */
+"Launch" = "Launch";
+
+/* No comment provided by engineer. */
+"Lock Version" = "Lock Version";
+
+/* No comment provided by engineer. */
+"Made with ♥ by OwnGoal Studio" = "Made with ♥ by OwnGoal Studio";
+
+/* No comment provided by engineer. */
+"No eligible framework found." = "No eligible framework found.";
+
+/* No comment provided by engineer. */
+"No Injected Plug-Ins" = "No Injected Plug-Ins";
+
+/* No comment provided by engineer. */
+"No valid plug-ins found." = "No valid plug-ins found.";
+
+/* No comment provided by engineer. */
+"Not the first, but the best phone call recorder with TrollStore." = "Not the first, but the best phone call recorder with TrollStore.";
+
+/* No comment provided by engineer. */
+"Only removable system applications are eligible and listed." = "Only removable system applications are eligible and listed.";
+
+/* No comment provided by engineer. */
+"Patched" = "Patched";
+
+/* No comment provided by engineer. */
+"Pinned Version" = "Pinned Version";
+
+/* No comment provided by engineer. */
+"Plug-Ins" = "Plug-Ins";
+
+/* No comment provided by engineer. */
+"Prefer Main Executable" = "Prefer Main Executable";
+
+/* No comment provided by engineer. */
+"Rebuild Icon Cache" = "Rebuild Icon Cache";
+
+/* No comment provided by engineer. */
+"Search Patched…" = "Search Patched…";
+
+/* No comment provided by engineer. */
+"Search…" = "Search…";
+
+/* No comment provided by engineer. */
+"Select Application to Inject" = "Select Application to Inject";
+
+/* No comment provided by engineer. */
+"Show in Filza" = "Show in Filza";
+
+/* No comment provided by engineer. */
+"Show Patched Only" = "Show Patched Only";
+
+/* No comment provided by engineer. */
+"Some plug-ins were not injected by TrollFools, please eject them with caution." = "Some plug-ins were not injected by TrollFools, please eject them with caution.";
+
+/* No comment provided by engineer. */
+"Source Code" = "Source Code";
+
+/* No comment provided by engineer. */
+"TrollFools" = "TrollFools";
+
+/* No comment provided by engineer. */
+"TrollRecorder" = "TrollRecorder";
+
+/* No comment provided by engineer. */
+"TrollStore Applications" = "TrollStore Applications";
+
+/* No comment provided by engineer. */
+"Unlock Version" = "Unlock Version";
+
+/* No comment provided by engineer. */
+"Use Weak Reference" = "Use Weak Reference";
+
+/* No comment provided by engineer. */
+"User Applications" = "User Applications";
+
+/* No comment provided by engineer. */
+"You need to rebuild the icon cache in TrollStore to apply changes." = "You need to rebuild the icon cache in TrollStore to apply changes.";

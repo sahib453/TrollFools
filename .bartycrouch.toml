@@ -1,0 +1,46 @@
+[update]
+tasks = ["interfaces", "code", "transform", "normalize"]
+
+[update.interfaces]
+paths = ["TrollFools"]
+subpathsToIgnore = [".git", "carthage", "pods", "build", ".build", "docs"]
+defaultToBase = true
+ignoreEmptyStrings = false
+unstripped = false
+ignoreKeys = ["#bartycrouch-ignore!", "#bc-ignore!", "#i!"]
+
+[update.code]
+codePaths = ["."]
+subpathsToIgnore = [".git", "carthage", "pods", "build", ".build", "docs"]
+localizablePaths = ["TrollFools"]
+defaultToKeys = false
+additive = false
+customFunction = "LocalizedStringResource"
+unstripped = false
+plistArguments = true
+ignoreKeys = ["#bartycrouch-ignore!", "#bc-ignore!", "#i!"]
+overrideComments = false
+
+[update.transform]
+codePaths = ["TrollFools"]
+subpathsToIgnore = [".git", "carthage", "pods", "build", ".build", "docs"]
+localizablePaths = ["TrollFools"]
+transformer = "foundation"
+supportedLanguageEnumPath = "."
+typeName = "BartyCrouch"
+translateMethodName = "translate"
+separateWithEmptyLine = true
+
+[update.normalize]
+paths = ["TrollFools"]
+subpathsToIgnore = [".git", "carthage", "pods", "build", ".build", "docs"]
+sourceLocale = "en"
+harmonizeWithSource = true
+sortByKeys = true
+separateWithEmptyLine = true
+
+[lint]
+paths = ["TrollFools"]
+subpathsToIgnore = [".git", "carthage", "pods", "build", ".build", "docs"]
+duplicateKeys = true
+emptyValues = true
